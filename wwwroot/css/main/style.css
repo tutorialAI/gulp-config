@@ -1,0 +1,12 @@
+﻿@import "colors.css";
+
+body {
+    background-color: var(--bg-body-color);
+}
+
+h1 {
+    font-size: 22px;
+    color: var(--title-color);
+}
+
+@import "test.css";
